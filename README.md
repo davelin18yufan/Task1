@@ -19,7 +19,7 @@ This repository contains six JavaScript files, each answering a specific questio
 2. Navigate to the project directory:
    ```bash
    cd Task1
-3. Browsing in each file and using such as
+3. Browsing into each file and using such as
    ```bash
    node test1.js
    ```
